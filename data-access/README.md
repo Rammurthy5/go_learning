@@ -1,0 +1,1 @@
+`go build -gcflags="-m"`  helps to find if a variable will escape to the heap or not
